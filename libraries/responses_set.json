@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "how are you",
+      "answer": "I'm good thanks",
+      "function": "None"
+    },
+    {
+      "question": "how you feeling",
+      "answer": "I'm doing ok thanks",
+      "function": "None"
+    },
+    {
+      "question": "what's the time",
+      "answer": "",
+      "function": "time()"
+    },
+    {
+      "question": "what's the date",
+      "answer": "",
+      "function": "date()"
+    },
+    {
+      "question": "what's the weather",
+      "answer": "look out the window",
+      "function": "None"
+    },
+    {
+      "question": "today",
+      "answer": "",
+      "function": "date()"
+    },
+    {
+      "question": "hiya",
+      "answer": "hello",
+      "function": "None"
+    },
+    {
+      "question": "hi",
+      "answer": "hi",
+      "function": "None"
+    },
+    {
+      "question": "what's up",
+      "answer": "probably the sky",
+      "function": "None"
+    },
+    {
+      "question": "the meaning of life",
+      "answer": "it's different for everyone",
+      "function": "None"
+    },
+    {
+      "question": "time",
+      "answer": "",
+      "function": "time()"
+    },
+    {
+      "question": "I'm sad",
+      "answer": "I'm sorry to hear that",
+      "function": "None"
+    },
+    {
+      "question": "the capital city of China",
+      "answer": "Beijing",
+      "function": "None"
+    },
+    {
+      "question": "what date is it",
+      "answer": "",
+      "function": "date()"
+    },
+    {
+      "question": "what time is it",
+      "answer": "",
+      "function": "time()"
+    },
+    {
+      "question": "what are you doing",
+      "answer": "trying to help you",
+      "function": "None"
+    }
+  ]
+}
